@@ -1,4 +1,4 @@
-package 문제1000;
+package Stage_1.문제1000;
 
 import java.io.*;
 
