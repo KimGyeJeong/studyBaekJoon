@@ -1,7 +1,6 @@
-package Stage_3.뮨재2438;
+package Stage_3.문제2438;
 
 import java.io.*;
-import java.util.logging.Logger;
 
 public class Main {
     public static void main(String[] args) throws IOException {
