@@ -1,4 +1,4 @@
-package Stage_9.문제15894;
+package Stage_10.문제15894;
 
 import java.io.*;
 
